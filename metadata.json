@@ -1,0 +1,15 @@
+{
+  "name": "bcochran-role",
+  "version": "0.1.0",
+  "author": "bcochran",
+  "summary": "This is a role module.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/somabc/puppet-role",
+  "project_page": "https://github.com/somabc/puppet-role",
+  "issues_url": "https://github.com/somabc/puppet-role/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
